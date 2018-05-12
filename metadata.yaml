@@ -1,4 +1,8 @@
 _repo: Zur-Geschichte-der-englischen-Volkswirthschaftslehre-aus-dem-III-Bande-der-Abhandlungen-der-K__47081
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47081-h/images/cover.jpg
 creator:
   author:
     agent_name: Roscher, Wilhelm
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '32854'
     url: http://www.gutenberg.org/2009/agents/32854
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47081#Zur-Geschichte-der-englischen-Volkswirthschaftslehre-aus-dem-III-Bande-der-Abhandlungen-der-K_
 gutenberg_issued: '2014-10-09'
 gutenberg_type: Text
 identifiers:
